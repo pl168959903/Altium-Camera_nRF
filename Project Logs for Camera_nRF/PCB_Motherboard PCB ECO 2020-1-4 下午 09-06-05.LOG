@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C10 Old Footprint=CAP_0402 New Footprint=Cap_0603
+Change Component Footprint: Designator=C16 Old Footprint=CAP_0402 New Footprint=Cap_0603
+Added Room: Name=Mobo
+Added Room: Name=U_NANO103
+Added Room: Name=U_nRF24L01
+Added Room: Name=U_W25Q128

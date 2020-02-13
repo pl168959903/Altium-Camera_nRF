@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=X1 Old Footprint=ABS25 New Footprint=X3215
+Change Component Footprint: Designator=X2 Old Footprint=X3215 New Footprint=2520S
+Added Member To Class: ClassName=Mobo Member=Component C13 Cap
+Added Member To Class: ClassName=Mobo Member=Component C15 Cap
+Added Member To Class: ClassName=Mobo Member=Component R2 Res

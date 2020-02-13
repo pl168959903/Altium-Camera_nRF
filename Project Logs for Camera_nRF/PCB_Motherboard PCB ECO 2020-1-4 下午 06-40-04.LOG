@@ -1,0 +1,10 @@
+Added Component: Designator=LED1(SMD-0603_LED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(SMD-0603_LED)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=PA15 Pin=LED2-2
+Added Member To Class: ClassName=Mobo Member=Component LED1 R
+Added Member To Class: ClassName=Mobo Member=Component LED2 R

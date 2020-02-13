@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PB3 Pin=J2-4
+Removed Pin From Net: NetName=PB2 Pin=Q1-1
+Removed Pin From Net: NetName=PB2 Pin=U1-11
+Removed Pin From Net: NetName=PB3 Pin=U1-12
+Removed Pin From Net: NetName=CE Pin=U1-21
+Removed Pin From Net: NetName=IRQ Pin=U1-22
+Added Pin To Net: NetName=PB2 Pin=J2-4
+Added Pin To Net: NetName=PB3 Pin=Q1-1
+Added Pin To Net: NetName=IRQ Pin=U1-11
+Added Pin To Net: NetName=CE Pin=U1-12
+Added Pin To Net: NetName=PB2 Pin=U1-21
+Added Pin To Net: NetName=PB3 Pin=U1-22
+Change Net Name : Old Net Name=PB2 New Net Name=PA0
+Change Net Name : Old Net Name=PB3 New Net Name=PA2
+Added Room: Name=Mobo
+Added Room: Name=U_NANO103
+Added Room: Name=U_nRF24L01
+Added Room: Name=U_W25Q128

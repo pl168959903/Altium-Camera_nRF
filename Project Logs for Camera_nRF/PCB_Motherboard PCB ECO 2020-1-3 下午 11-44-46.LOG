@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=U2-0
+Removed Pin From Net: NetName=UART1_RX Pin=U2-1
+Removed Pin From Net: NetName=UART1_TX Pin=U2-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=U2-3
+Removed Member From Class: ClassName=Mobo Member=U2
+Change Component Designator: OldDesignator=AP2112 NewDesignator=AP1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=nRF24L01 NewDesignator=nRF1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Component: Designator=J1(JST_2.0mm_4pin_180)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ1_3 Pin=J1-1
+Added Pin To Net: NetName=UART1_TX Pin=J1-2
+Added Pin To Net: NetName=UART1_RX Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Change Net Name : Old Net Name=NetAP2112_3 New Net Name=NetAP1_3
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetJ1_1
+Added Member To Class: ClassName=Mobo Member=Component J3 Plug3

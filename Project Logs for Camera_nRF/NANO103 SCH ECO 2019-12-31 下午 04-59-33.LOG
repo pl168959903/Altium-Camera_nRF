@@ -1,0 +1,23 @@
+Change Value of Parameter Value in Part C1 Old=0.1uF New=0.1uf
+Change Value of Parameter Value in Part C2 Old=0.1uF New=0.1uf
+Change Value of Parameter Value in Part C3 Old=1uF New=0.1uf
+Change Value of Parameter Value in Part C4 Old=0.1uF New=0.1uf
+Change Value of Parameter Value in Part C5 Old=0.1uF New=0.1uf
+Change Value of Parameter Value in Part C6 Old=20pf New=0.1uf
+Change Value of Parameter Value in Part C7 Old=20pf New=0.1uf
+Change Value of Parameter Value in Part C8 Old=20pf New=0.1uf
+Change Value of Parameter Value in Part C9 Old=20pf New=0.1uf
+Change Value of Parameter Value in Part X1 Old=32.768kHz New=12MHz
+Replace Symbol from C1 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C2 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C3 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C4 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C5 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C6 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C7 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C8 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from C9 Cap in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Cap from ZGR.IntLib
+Replace Symbol from R1 Res in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Res from ZGR.IntLib
+Replace Symbol from U1 NANO103ZD3AE in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with NANO103ZD3AE from NUVOTON.IntLib
+Replace Symbol from X1 Xtal in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Xtal from ZGR.IntLib
+Replace Symbol from X2 Xtal in D:\Altium\Project\1Z1080279\Camera_nRF\NANO103.SchDoc with Xtal from ZGR.IntLib

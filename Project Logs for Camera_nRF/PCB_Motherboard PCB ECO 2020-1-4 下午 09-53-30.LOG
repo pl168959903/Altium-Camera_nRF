@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetAP1_3 Pin=SB1-1
+Removed Pin From Net: NetName=NetR4_2 Pin=SB1-2
+Removed Pin From Net: NetName=NetAP1_3 Pin=SB1-3
+Removed Pin From Net: NetName=GND Pin=X2-
+Removed Pin From Net: NetName=GND Pin=X2-
+Added Pin To Net: NetName=NetAP1_3 Pin=SB1-2
+Added Pin To Net: NetName=NetR4_2 Pin=SB1-3
+Added Room: Name=Mobo
+Added Room: Name=U_NANO103
+Added Room: Name=U_nRF24L01
+Added Room: Name=U_W25Q128
