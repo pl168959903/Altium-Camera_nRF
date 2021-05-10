@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=CE Pin=U1-11
-Removed Pin From Net: NetName=PA15 Pin=U1-17
-Added Pin To Net: NetName=PA15 Pin=U1-11
-Added Pin To Net: NetName=CE Pin=U1-17
-Change Net Name : Old Net Name=PA15 New Net Name=PB2
-Added Room: Name=Mobo
-Added Room: Name=U_NANO103
-Added Room: Name=U_nRF24L01
-Added Room: Name=U_W25Q128

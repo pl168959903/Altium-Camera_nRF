@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PA0 Pin=LED2-2
-Removed Pin From Net: NetName=VBAT Pin=R3-1
-Added Pin To Net: NetName=VBAT Pin=LED2-1
-Added Pin To Net: NetName=PA0 Pin=R3-2

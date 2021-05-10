@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IRQ Pin=U1-11
-Removed Pin From Net: NetName=CE Pin=U1-12
-Added Pin To Net: NetName=CE Pin=U1-11
-Added Pin To Net: NetName=IRQ Pin=U1-12
-Added Room: Name=Mobo
-Added Room: Name=U_NANO103
-Added Room: Name=U_nRF24L01
-Added Room: Name=U_W25Q128
